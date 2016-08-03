@@ -1,0 +1,233 @@
+References
+1.
+Budnitz, D.S., Pollock, D.A., Weidenbach, K.N., Mendelsohn, A.B., Schroeder, T.J., &
+Annest, J.L. (2006). National surveillance of emergency department visits for outpatient adverse
+drug events. Journal of the American Medical Association, 2006(296), 1858-1866.
+2.
+Shang, N., Xu, H., Rindflesch, T., & Cohen, T. (2014). Identifying plausible adverse drug
+reactions using knowledge extracted from the literature. Journal of Biomedical Informatics,
+2014(52), 293-310.
+3.
+Diaz-Garelli, J.F., Bernstam, E.V., Rahbar, M.H., & Johnson, T. (2015). Rediscovering
+drug side effects: the impact of analytical assumptions on the detection of associations in EHR
+data. AMIA Summits on Translational Science Proceedings, 2015, 51-55.
+4.
+FAERS.
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrug
+Effects
+5.
+Hersh, W.R., Weiner, M.G., Embi, P.J., et al. (2013). Caveats for the use of operational
+electronic health record data in comparative effectiveness research. Medical Care, 2013(51),
+S30-S37.
+6.
+Li, Y., Salmasian, H., Vilar, S., Chase, H., Friedman, C., & Wei, Y. (2014). A method for
+controlling complex confounding effects in the detection of adverse drug reactions using
+electronic health records. Journal of the American Medical Informatics Association, 21(2), 308-
+314.
+7.
+Malec, S.A., Wei, P., Xu, H., Bernstam, E.V., Sahiti, S., & Cohen, T. (2016). Literature-
+based Discovery of Confounding Variables in Observational Clinical Data. Proceedings of the
+AMIA Symposium (accepted) 2016.
+8.
+Stolley, P.D. (1999). When genius errs: R. A. Fisher and the cancer controversy.
+American Journal of Epidemiology, 133(5), 416-25.
+9.
+Mill, J.S. (1843) A system of logic, ratiocinative and inductive. London: John W. Parker.
+4510.
+Aronson, J. & Talbot J. (2012). Stephens’ detection and evaluation of adverse drug
+reactions: principles and practice. Ed. by Talbot, J. & Aronson, J.K. Sixth Edition. Oxford, UK:
+Oxford University Press.
+11.
+Pearl, J. (2009). Causality: Models, reasoning, inference, 2nd Edition. New York:
+Cambridge University Press.
+12.
+Pearl, J., Glymour, M., & Jewell, N.P. (2014). Causal inference in statistics: a primer.
+Chichester, UK: Wiley.
+13.
+Lagani, V., Triantafillou, S., Ball, G., Tegner, J., & Tsamardinos, I. (2016). Probabilistic
+computational causal discovery for systems biology. Uncertainty in Biology, 17(2016), 33-73.
+14.
+Greenland, S., Robins, J.M., & Pearl, J. (1999). Confounding and collapsibility in causal
+inference. Statistical Science, 1999(14), 29-46.
+15.
+Greenland, S. & Hal, M. (2001). Confounding in health research. Annual Review Public
+Health, 2001(22), 189-212.
+16.
+Armstrong, B.G. (1998). Effect of measurement error on epidemiological studies of
+environmental and occupational exposures. Occupational and Environmental Medicine, 55(10),
+651–656.
+17.
+Brookhart, M., Stürmer, T., Glynn, R., Rassen, J., & Schneeweiss, S. (2010).
+Confounding control in healthcare database research: challenges and potential approaches.
+Medical Care, 2010(48), S114-S120.
+18.
+Tibshirani, R. (1996). Regression shrinkage and selection via the lasso. Journal Royal
+Statistical Society Bulletin. 58(1), 267-288.
+19.
+Efron, B., Hastie, T., Johnstone, I., & Tibshirani, R. (2004). Least angle regression.
+Annals of Statistics, 2(32), 407-499.
+20.
+Friedman, J., Hastie, T., & Tibshirani, R. (2010). Regularization paths for generalized
+linear models via coordinate descent. Journal of Statistical Software, 33(1), 1-22.
+21.
+Li, Y., Ryan, P.B., Wei, Y., Friedman, C. (2015). A method to combine signals from
+spontaneous reporting systems and observational healthcare data to detect adverse drug
+reactions. Drug Safety, October 38(10), 895-908.
+22.
+Harpaz, R., DuMouchel, W., Shah, N.H., Madigan, D., Ryan, P., & Friedman, C. (2012).
+Novel data-mining methodologies for adverse drug event discovery and analysis. Clinical
+Pharmacology Therapy, 91(6), 1010-1021.
+23.
+Nasir, M., Keiser, M.J., Vilar, S., Hripcsak, G., & Tatonetti, N.P. (2015). Systems
+pharmacology augments drug safety surveillance. Clinical Pharmacology Therapy, 97(2), 151-
+158.
+24.
+Swanson, D.R. (1986). Fish oil, Raynaud's syndrome, and undiscovered public
+knowledge. Perspectives Biological Medicine, 30(1), 7–18.
+4625.
+Swanson, D.R. & Smalheiser, N.R. (1997). An interactive system for finding
+complementary literatures: a stimulus to scientific discovery. Artificial Intelligence, 1997(91),
+183–203.
+26.
+Hristovski, D., Friedman, C., Rindflesch, T.C., & Peterlin, B. (2006). Exploiting semantic
+relations for literature-based discovery. AMIA Annual Symposium Proceedings, 2006, 349–53.
+27.
+Bruza, P. (2008). Literature-based Discovery. Ed. by Bruza, P. & Weeber, M. New York:
+Springer.
+28.
+Cohen, T., Widdows, D., Schvaneveldt, R.W., Davies, P., & Rindflesch, T.C. (2012).
+Discovering discovery patterns with predication-based semantic indexing. Journal of Biomedical
+Informatics, 45(6), 1049-1065.
+29.
+Wright, S. (1921). Correlation and Causation. Journal of Agricultural Research, 20, 557-
+585.
+30.
+Hill, A. B. (1965). The Environment and Disease: Association or Causation?
+Proceedings of the Royal Society of Medicine, 58(5), 295–300.
+31.
+Darwiche, A. (2009). Modeling and Reasoning with Bayesian Networks. Cambridge, UK:
+Cambridge University Press.
+32.
+Cooper, G.F. (1990). Computational complexity of probabilistic inference using Bayesian
+belief networks, Artificial Intelligence. 42(2), 393-405.
+33.
+Richardson, T. A. (1996). Discovery algorithm for directed cyclic graphs. In E. Horvitz
+and F. Jensen, editors. Proceedings of the Twelfth Conference on Uncertainty in Artificial
+Intelligence, 454-461. San Francisco, CA: Morgan Kaufmann.
+34.
+Spirtes, P., Glymour, C.N., & Scheines, R. (2000). Causation, Prediction, and Search.
+Cambridge, MA: MIT Press.
+35.
+Bayes, T. (1763). An Essay towards solving a Problem in the Doctrine of Chances. “By
+the late Rev. Mr. Bayes, F. R. S. communicated by Mr. Price, in a letter to John Canton, A. M. F.
+R. S." Philosophical Transactions, Giving Some Account of the Present Undertakings, Studies
+and Labours of the Ingenious in Many Considerable Parts of the World, 53, 370–418.
+36.
+Laplace, P. (1774/1986). Memoir on the Probability of the Causes of Events. Statistical
+Science, 1(3), 364–378.
+37.
+Nagarajan, R., Scutari, M., & Lèbre, S. (2013). Bayesian Networks in R with Applications
+in Systems Biology. New York: Springer.
+38.
+Wright, S. (1925). Corn and hog correlations. Technical Report 1300, U.S. Department
+of Agriculture.
+39.
+Pearl, J. (2001). Causal inference in the health sciences: A conceptual introduction.
+Health Services and Outcomes Research Methodology, 2:189-220. Special Issue on Causal
+Inference.
+4740.
+Friedman, C. (2000). A broad-coverage natural language processing system.
+Proceedings of the AMIA Symposium. 2000, 270-4.
+41.
+Friedman, C., Shagina, L., Lussier, Y., & Hripcsak, G. (2004). Automated encoding of
+clinical documents based on natural language processing. Journal of the American Medical
+Informatics Association, 11(5), 392-402.
+42. UMLS. https://www.nlm.nih.gov/research/umls/
+43. Rindflesch, T., Fiszman, M. (2003). The interaction of domain knowledge and linguistic
+structure in natural language processing: interpreting hypernymic propositions in biomedical text.
+Journal of Biomedical Informatics, 36(6), 462-477.
+44.
+Kilicoglu, H., Fiszman, M., Rosemblat, G., Marimpietri, S., & Rindflesch, T.C. (2010).
+Arguments of nominals in semantic interpretation of biomedical text. In: Proceedings of the 2010
+Workshop on Biomedical Natural Language Processing, 46–54.
+45. SemMedDB. http://skr3.nlm.nih.gov/SemMedDB/
+46. MEDLINE. http://www.ncbi.nlm.nih.gov/pubmed
+47. Rumelhart, D.E. & McCelland, J.L. (1986). Parallel distributed processing: explorations
+in the microstructure of cognition. Cambridge, MA: MIT Press.
+48.
+Fodor, J.A. & Pylyshyn, Z.W. (1998). Connectionism and cognitive architecture: a critical
+analysis. Cognition, 28(1):3-71.
+49.
+Smolensky, P. (1990). Tensor product variable binding and the representation of
+symbolic structures in connectionist systems. Artificial Intelligence, 46:159-216.
+50.
+Plate, T.A. (2003). Holographic Reduced Representation: Distributed Representation for
+Cognitive Structures. Stanford, Calif.: CSLI Publications.
+51.
+Gayler, R.W. (2004). Vector symbolic architectures answer Jackendoff’s challenges for
+cognitive neuroscience. In: Slezak Peter, editor. ICCS/ASCS international conference on
+cognitive science; Sydney, Australia. University of New South Wales, 133–138.
+52.
+Kanerva, P. (1994). The spatter code for encoding concepts at many levels. In M.
+Marinaro & P. G. Morasso (eds.), ICANN ’94, Proceedings of the International Conference on
+Artificial Neural Networks (Sorrento, Italy), London, UK: Springer–Verlag, 226–229.
+53.
+Widdows, D. & Cohen, T. (2014, November 19). Reasoning with vectors: a continuous
+model for fast robust inference. Logic Journal of IGPL, jzu028.
+54.
+Cohen, T., Schvaneveldt, R., & Widdows, D. (2010). Reflective random indexing and
+indirect inference: a scalable method for discovery of implicit connections. Journal of Biomedical
+Informatics. 43(2), 240-56.
+55.
+Cohen, T., Widdows, D., Schvaneveldt, R.W., & Rindflesch, T. (2012). Logical leaps and
+quantum connectives: forging paths through predication space. Quantum Informatics for
+Cognitive, Social, and Semantic Processes: Papers from the AAAI Fall Symposium. 2012;40-47.
+4856.
+Semanticvectors package on github:
+https://github.com/semanticvectors/semanticvectors
+57.
+Kanerva, P., Kristoferson, J., & Holst, A. (2000). Random Indexing of Text Samples for
+Latent Semantic Analysis, Proceedings of the 22nd Annual Conference of the Cognitive Science
+Society, 2000, 1036.
+58.
+Cohen, T., Whitfield, G.K., Schvaneveldt, R.W., Mukund, K., & Rindflesch, T. (2010).
+EpiphaNet: An Interactive Tool to Support Biomedical Discoveries. Journal of Biomedical
+Discovery Collaborations, 2010(5), 21-49.
+59. EpiphaNet. http://epiphanet.uth.tmc.edu
+60. Ryan, P.B., Schuemie, M.J., Welebob, E., Duke, J., Valentine, S., & Hartzema, A. (2013)
+Defining a reference set to support methodological research in drug safety. Drug Safety, 36,
+S33-S47.
+61.
+RxNorm. https://www.nlm.nih.gov/research/umls/rxnorm/Observational Medical
+Outcomes Partnership
+62. (OMOP). http://omop.org/
+63. UTH BIG. https://redcap.uth.tmc.edu/cdwstats/stats-mpi.htm
+64. Lucene. https://lucene.apache.org/
+65. Tetrad. https://github.com/cmu-phil/tetrad
+66. Hastie, T., Tibshirani, & Friedman, J. (2002). The Elements of Machine Learning: Data
+Mining, Inference, and Prediction, 2 nd Ed. New York, NY: Springer.
+67. Scutari, M. (2015). "Package 'BNLEARN’", CRAN.
+68. Dethlefsen, F. et al. (2016). “Package ‘DEAL’”, CRAN.
+69. Højsgaard, S, Edwards, D, & Lauritzen, S. (2012). Graphical Models with R. New York:
+Springer.
+70.
+Ramsay, J. (2015). Scaling up Greedy Equivalence Search for continuous variables.
+http://archiv.org/ftp/arxiv/papers/1507/1507.07749.pdf
+71. Spirtes, P. & Glymour, C.N. PC algorithm
+72. Hongfang, F. & Rastegar, M. (2016) Mayo Clinic data / contingency tables.
+73. Jordan, M.I. (2015). Sackler Big Data Colloquium.
+https://www.youtube.com/watch?v=j1PS6T6yAoY
+74.
+Li, Y., Ryan, P.B., Wei, Y., & Friedman, C. (2015, October). A method to combine
+signals from spontaneous reporting systems and observational healthcare data to detect adverse
+drug reactions. Drug Safety, 38(10):895-908. doi:10.10007/s40264-015-0314-8
+75.
+Gelman, A., Carlin, J.B., Stern, H.S., & Rubin, D. (2013). Bayesian Data Analysis, Third
+Edition. New York, NY: Chapman & Hall Press/CRC.
+76.
+METAL Wiki. http://genome.sph.umich.edu/wiki/METAL_Documentation
+4977.
+Friedman, J., Hastie, T., Tibshirani, R. (2010). Regularization Paths for Generalized
+Linear Models via Coordinate Descent. Journal of Statistical Software, 33(1), 1-22.
+78. Church. http://projects.csail.mit.edu/church/wiki/Church
+79. Probabalistic-Programming.org. http://probabilistic-programming.org/wiki/Home
